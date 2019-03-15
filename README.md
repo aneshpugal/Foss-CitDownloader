@@ -6,6 +6,8 @@
 ## Description
 Coimbatore Institute of Technology's very own student circle FOSS-CIT's Project downloader for fetching project files from server.
 
+![FOSS-CIT](https://i.imgur.com/CPttKTp.png)
+
 ## Installation
 * Clone repository
 ```sh
