@@ -4,14 +4,14 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Description
-Coimbatore Institute of Technology's very own student circle FOSS-CIT's Project downloader for fetching project files from server.
+Coimbatore Institute of Technology's very own student circle [FOSS-CIT's](https://github.com/fosscit) Project downloader for fetching project files from server.
 
-![FOSS-CIT](https://i.imgur.com/CPttKTp.png)
+[![FOSS-CIT](https://i.imgur.com/CPttKTp.png)](https://github.com/fosscit)
 
 ## Running Binary (.exe)
 * Clone repository
 ```sh
-  git clone https://github.com/the-bose/collagify.git
+  git clone https://github.com/the-bose/Foss-CitDownloader
 ```
 * Open **Downloader.exe** from **bin** folder.
 * Enter **server, username, password and project name** (as instructed) and press the 'Get Project' button.
@@ -20,12 +20,25 @@ Coimbatore Institute of Technology's very own student circle FOSS-CIT's Project 
 ## Installation
 * Clone repository
 ```sh
-  git clone https://github.com/the-bose/collagify.git
+  git clone https://github.com/the-bose/Foss-CitDownloader
 ```
 * **cd** into src directory
 ```sh
   cd src
 ```
+* Create virtual environment
+```sh
+virtualenv venv
+```
+* Activate virtual environment
+  * **Linux**
+  ```sh
+    source venv/bin/activate
+  ```
+  * **Windows**
+  ```sh
+    venv\Scripts\activate.bat
+  ```
 * Install dependencies
 ```sh
   pip install -r requirements.txt
