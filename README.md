@@ -8,6 +8,15 @@ Coimbatore Institute of Technology's very own student circle FOSS-CIT's Project 
 
 ![FOSS-CIT](https://i.imgur.com/CPttKTp.png)
 
+## Running Binary (.exe)
+* Clone repository
+```sh
+  git clone https://github.com/the-bose/collagify.git
+```
+* Open **Downloader.exe** from **bin** folder.
+* Enter **server, username, password and project name** (as instructed) and press the 'Get Project' button.
+* Downloaded project can be found in the 'downloads' folder.
+
 ## Installation
 * Clone repository
 ```sh
@@ -28,7 +37,7 @@ Coimbatore Institute of Technology's very own student circle FOSS-CIT's Project 
   python app.py
 ```
 * Enter **server, username, password and project name** (as instructed) and press the 'Get Project' button.
-* Downloaded project can be found in the 'downloads' folder
+* Downloaded project can be found in the 'downloads' folder.
 
 ### Happy FOSS!
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://d2v48i7nl75u94.cloudfront.net/uploads/ffdea956dec0bcf18946b09ec6955ad9.jpeg)
